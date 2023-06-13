@@ -9,7 +9,7 @@ const cargarTitulos = (resultados) => {
                   <img class="main__media-img" src="https://image.tmdb.org/t/p/w500/${resultado.poster_path}" alt="" />
               </a>
               <p class="main__media-titulo">${resultado.title}</p>
-              <p class="main__media-fecha">2021</p>
+              <p class="main__media-fecha">${resultado.genero}</p>
           </div>
           `;
 
