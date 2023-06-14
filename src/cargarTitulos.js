@@ -2,6 +2,7 @@ const cargarTitulos = (resultados) => {
 
     const contenedor = document.querySelector('#populares .main__grid');
 
+    contenedor.innerHTML = ' ';
     resultados.forEach((resultado) => {
         const plantilla = `
           <div class="main__media">
