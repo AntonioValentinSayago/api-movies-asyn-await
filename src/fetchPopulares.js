@@ -14,9 +14,11 @@ const fetchPopulares = async (filtro = 'movie') =>
         const generos = await fetchGeneros();
         resultados.forEach((resultado) => {
             resultado.genero = obtenerGenero(resultado.genre_ids[0], generos);
-        })
+        });
+
         return resultados;
             
+        
     } catch (error) {
         console.log(error);
     }
