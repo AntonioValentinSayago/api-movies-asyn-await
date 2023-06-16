@@ -4,6 +4,7 @@ import cargarGeneros from './cargarGeneros';
 import './listenerFiltroTipo';
 import './listernerFiltroGeneros'
 import './listenerBuscar';
+import './paginacion';
 
 const cargar = async () => {
     const resultados =  await fetchPopulares();

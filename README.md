@@ -2,13 +2,13 @@
 <br />
 <p align="center">
  <a href="https://github.com/AntonioValentinSayago/.net6_angular_crud">
-    <img src="public/img/Logo.png" alt="Logo" width="160" height="160">
+    <img src="img/antonioValentin.png" alt="Logo" width="300px" height="160">
  </a>
 
   <h3 align="center">App the Movie DB / aync-await</h3>
 
   <p align="center">
-    An awesome app with Aangular - .NET !
+    Javascript Api the Movie DB / aync-await
     <br />
   </p>
 </p>
@@ -83,7 +83,7 @@ You will have to download.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AntonioValentinSayago/.net6_angular_crud.git
+   git clone https://github.com/AntonioValentinSayago/api-movies-asyn-await
    ```
 2. Move in console to .net6_angular_crud folder.
 
@@ -96,12 +96,12 @@ You will have to download.
 
 5. Run Tahduth.
    ```sh
-   node app
+   npm run build
    ```
 
 6. Open Tahduth-Chat in Chrome, Firefox or Opera.
    ```sh
-   http://localhost/
+   http://localhost/8000
    ```
 
 
@@ -112,7 +112,7 @@ You will have to download.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/AntonioValentinSayago/.net6_angular_crud/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/AntonioValentinSayago/api-movies-asyn-await) for a list of proposed features (and known issues).
 
 
 
@@ -139,13 +139,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Deathmajorasmask - zijaham_link@hotmail.com
+AntonioValentin - cesar_anto30@hotmail.com
 
-Project Link: [https://github.com/AntonioValentinSayago/.net6_angular_crud](https://github.com/AntonioValentinSayago/.net6_angular_crud)
+Project Link: [https://github.com/AntonioValentinSayago/api-movies-asyn-await](https://github.com/AntonioValentinSayago/api-movies-asyn-await)
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[screenshot]: images/Screen01_TahduthChat.JPG
-[screenshot01]: images/Screen02_TahduthChat.JPG
+[screenshot]: img/demo.png
+[screenshot01]: img/antonioValentin.png
