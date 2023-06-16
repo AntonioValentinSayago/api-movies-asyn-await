@@ -2,7 +2,7 @@
 <br />
 <p align="center">
  <a href="https://github.com/AntonioValentinSayago/.net6_angular_crud">
-    <img src="img/antonioValentin.png" alt="Logo" width="160" height="160">
+    <img src="img/antonioValentin.png" alt="Logo" width="3000" height="160">
  </a>
 
   <h3 align="center">App the Movie DB / aync-await</h3>
