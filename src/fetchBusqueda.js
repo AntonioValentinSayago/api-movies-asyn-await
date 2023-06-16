@@ -1,7 +1,7 @@
 import fetchGeneros from "./fetchGeneros";
 import obtenerGenero from "./obtenerGenero";
 
-const fetchBusqueda = async () => {
+const fetchBusqueda = async (pagina = 1) => {
 
     const tipo = document.querySelector('.main__filtros .btn--active')?.id;
     const idGenero = document.querySelector('#filtro-generos .btn--active')?.dataset.id;
